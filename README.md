@@ -39,7 +39,7 @@ npx expo start
 
 This is just a boilerplate to get your project off the ground. Here's what you’ll want to update:
 
-- **Tabs in `TabNavigator.js` or equivalent file**: Rename, add, or remove tabs depending on your app’s needs.
+- **Tabs in `(tabs)` or equivalent file**: Rename, add, or remove tabs depending on your app’s needs.
 - **Screens**: Replace the placeholder screens with your actual components.
 - **`package.json`**:
   - Update the `name`, `version`, and `description`.
